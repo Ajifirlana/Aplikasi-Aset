@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_data" value="name:id_pengadaan;datatype:int,name:kode_barang;datatype:string,name:nm_barang;datatype:string,name:kode_cabang;datatype:string,name:total_unit;datatype:real,name:sisa_jumlah;datatype:int" />
+</info>

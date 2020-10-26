@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_data" value="name:id_mutasi;datatype:real,name:tgl_mutasi;datatype:date,name:kode_aset;datatype:string,name:nm_barang;datatype:string,name:ruanglama;datatype:string,name:ruangbaru;datatype:string,name:unitlama;datatype:string,name:unitbaru;datatype:string,name:user_posting;datatype:string" />
+</info>

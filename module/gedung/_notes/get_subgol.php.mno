@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_subgol" value="name:kode_golongan;datatype:string,name:sub_golongan;datatype:real,name:nm_subgolongan;datatype:string" />
+</info>

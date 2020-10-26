@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_aset" value="name:kode_gedung;datatype:string,name:nm_gedung;datatype:string,name:tahun_pemerolehan;datatype:year,name:id_dana;datatype:int,name:biaya_pembangunan;datatype:int,name:luas_tanah;datatype:int,name:luas_bangunan;datatype:int,name:umur_ekonomis;datatype:int,name:umur_teknis;datatype:int,name:sifat_bangunan;datatype:string,name:id_peruntukan;datatype:int,name:id_kepemilikan;datatype:int,name:kondisi;datatype:string,name:kampus;datatype:string,name:id_penanggungjawab;datatype:int,name:gambar_denah;datatype:string,name:gambar_bangunan;datatype:string,name:tgl_posting;datatype:date,name:user_posting;datatype:string,name:nm_cabang;datatype:string,name:nm_kepemilikan;datatype:string,name:nm_penanggungjawab;datatype:string,name:nm_dana;datatype:string,name:nm_peruntukan;datatype:string" />
+</info>

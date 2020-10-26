@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_edit" value="name:kode_harta;datatype:string,name:nm_harta;datatype:string,name:ket;datatype:string,name:tgl_posting;datatype:date,name:user_posting;datatype:string" />
+</info>

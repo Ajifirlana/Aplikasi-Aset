@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_data" value="name:id_history;datatype:int,name:kode_inventarisasi;datatype:string,name:status_before;datatype:int,name:status_sebelum;datatype:string,name:status_after;datatype:int,name:status_sesudah;datatype:string,name:tgl_ubah;datatype:date,name:keterangan_ubah;datatype:blob,name:user_ubah;datatype:string" />
+</info>

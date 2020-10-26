@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_harta" value="name:kode_harta;datatype:string,name:nm_harta;datatype:string" />
+	<infoitem key="UD_rs_edit" value="name:kode_golongan;datatype:string,name:kode_harta;datatype:int,name:nm_golongan;datatype:string,name:keterangan;datatype:string,name:persen_susut;datatype:real,name:masa_manfaat;datatype:int,name:tgl_posting;datatype:date,name:user_posting;datatype:string,name:Jenis Harta;datatype:string" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_combo" value="name:kode_golongan;datatype:string,name:nm_golongan;datatype:string" />
+	<infoitem key="UD_rs_edit" value="name:sub_golongan;datatype:string,name:kode_golongan;datatype:string,name:nm_subgolongan;datatype:string,name:tgl_posting;datatype:date,name:user_posting;datatype:string,name:nm_golongan;datatype:string" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_data" value="name:kode_inventarisasi;datatype:string,name:kode_barang;datatype:string,name:kode_pengadaan;datatype:string,name:nm_barang;datatype:string,name:kode_cabang;datatype:string,name:nm_cabang;datatype:string,name:kode_ruangan;datatype:string,name:nm_ruangan;datatype:string,name:kode_unit;datatype:int,name:nm_unit;datatype:string,name:jumlah;datatype:real,name:kondisi;datatype:string,name:nm_status;datatype:string,name:tgl_posting;datatype:date,name:user_posting;datatype:string,name:merk;datatype:string,name:tipe;datatype:string,name:tgl_entry;datatype:date" />
+</info>

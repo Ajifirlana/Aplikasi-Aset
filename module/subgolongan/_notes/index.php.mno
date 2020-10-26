@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_data" value="name:sub_golongan;datatype:real,name:kode_golongan;datatype:string,name:nm_subgolongan;datatype:string,name:tgl_posting;datatype:datetime,name:user_posting;datatype:string,name:nm_golongan;datatype:string" />
+</info>

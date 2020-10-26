@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_edit" value="name:id_bidang;datatype:int,name:nm_bidang;datatype:string" />
+</info>

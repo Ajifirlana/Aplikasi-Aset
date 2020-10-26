@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_cabang" value="name:kode_cabang;datatype:string,name:nm_cabang;datatype:string" />
+</info>

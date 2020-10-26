@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_golongan" value="name:kode_golongan;datatype:string,name:nm_golongan;datatype:string" />
+	<infoitem key="UD_rs_subgolongan" value="name:sub_golongan;datatype:string,name:nm_subgolongan;datatype:string" />
+	<infoitem key="UD_rs_dana" value="name:id_dana;datatype:int,name:nm_dana;datatype:string" />
+	<infoitem key="UD_rs_peruntukan" value="name:id_peruntukan;datatype:int,name:nm_peruntukan;datatype:string" />
+	<infoitem key="UD_rs_kepemilikan" value="name:id_kepemilikan;datatype:int,name:nm_kepemilikan;datatype:string" />
+	<infoitem key="UD_rs_kampus" value="name:kode_cabang;datatype:string,name:nm_cabang;datatype:string" />
+	<infoitem key="UD_rs_penanggungjawab" value="name:id_penanggungjawab;datatype:int,name:nm_penanggungjawab;datatype:string" />
+	<infoitem key="UD_rs_kondisi" value="name:status;datatype:int,name:nm_status;datatype:string" />
+</info>

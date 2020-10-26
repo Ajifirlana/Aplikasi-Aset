@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_data" value="name:kode_pengadaan;datatype:string,name:kode_barang;datatype:string,name:nm_barang;datatype:string,name:kode_suplier;datatype:string,name:nm_suplier;datatype:string,name:jumlah;datatype:int,name:luas;datatype:string,name:no_bpkb;datatype:string,name:no_faktur;datatype:string,name:no_polisi;datatype:string,name:no_sertifikat;datatype:string,name:sisa_jumlah;datatype:int,name:tgl_beli;datatype:datetime,name:user_posting;datatype:string" />
+</info>

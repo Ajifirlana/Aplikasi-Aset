@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_edit" value="name:id_penanggungjawab;datatype:int,name:nm_penanggungjawab;datatype:string" />
+</info>

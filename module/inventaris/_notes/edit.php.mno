@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_golongan" value="name:kode_golongan;datatype:string,name:nm_golongan;datatype:string" />
+	<infoitem key="UD_rs_subgolongan" value="name:sub_golongan;datatype:real,name:nm_subgolongan;datatype:string" />
+	<infoitem key="UD_rs_edit" value="name:kode_barang;datatype:string,name:nm_barang;datatype:string,name:kode_golongan;datatype:string,name:sub_golongan;datatype:int,name:merk;datatype:string,name:tipe;datatype:string,name:tahun;datatype:string,name:volume;datatype:string,name:tgl_entry;datatype:datetime,name:user_posting;datatype:string,name:total_unit;datatype:real,name:masa_servis;datatype:int,name:poto;datatype:string,name:nm_golongan;datatype:string,name:nm_subgolongan;datatype:string" />
+</info>

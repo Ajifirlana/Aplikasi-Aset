@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_data" value="name:id_pemeliharaan;datatype:real,name:kode_inventarisasi;datatype:string,name:tgl_servis;datatype:date,name:tgl_servis_berikutnya;datatype:date,name:tempat_servis;datatype:string,name:keluhan;datatype:string,name:keterangan_pem;datatype:string,name:tgl_posting;datatype:date,name:user_posting;datatype:string,name:biaya_servis;datatype:real,name:flag;datatype:int" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_harta" value="name:kode_harta;datatype:string,name:nm_harta;datatype:string" />
+	<infoitem key="UD_rs_combo" value="name:kode_harta;datatype:string,name:nm_harta;datatype:string" />
+</info>

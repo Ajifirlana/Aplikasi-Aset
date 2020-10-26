@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_edit" value="name:kode_cabang;datatype:string,name:nm_cabang;datatype:string,name:alamat;datatype:string,name:propinsi;datatype:string,name:kabupaten;datatype:string,name:telepon;datatype:string,name:pincab;datatype:string,name:user_posting;datatype:string,name:tgl_posting;datatype:date" />
+</info>

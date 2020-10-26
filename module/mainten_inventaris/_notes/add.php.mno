@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_harta" value="name:kode_suplier;datatype:string,name:nm_suplier;datatype:string" />
+	<infoitem key="UD_rs_ruangan" value="name:kode_ruangan;datatype:string,name:nm_ruangan;datatype:string,name:keterangan;datatype:string,name:user_posting;datatype:string,name:tgl_posting;datatype:date" />
+	<infoitem key="UD_rs_unit" value="name:kode_unit;datatype:string,name:nm_unit;datatype:string,name:keterangan;datatype:string,name:user_posting;datatype:string,name:tgl_posting;datatype:date" />
+</info>
